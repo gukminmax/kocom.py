@@ -4,6 +4,7 @@
 
 ## About
 Kocom Wallpad with RS485
+min_ver
 
 ## Installation
 
